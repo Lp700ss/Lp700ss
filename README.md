@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lp700ss
-- 👀 I’m interested in frontend technologies and cybersecurity.
-- 🌱 I’m currently learning Flutter for Android / ios application development.
+- 👀 I’m interested in frontend technologies ,cybersecurity and blockchain.
+- 🌱 I’m currently learning Web3.js , Solidity, and Rust .
 - 💞️ I’m passionate about Blockchain. And i am currently working on Solana Blockchain and NFT Utilities.
 - 📫 How to reach me ...
 
