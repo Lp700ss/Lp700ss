@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lp700ss
 - 👀 I’m interested in frontend technologies ,cybersecurity and blockchain.
-- 🌱 I’m currently learning Web3.js , Solidity, and Rust .
-- 💞️ I’m passionate about Blockchain. And i am currently working on Solana Blockchain and NFT Utilities.
+- 🌱 I’m currently learning Embedded AI
+- 💞️ I’m passionate about Blockchain and Generative AI . And i am currently working on Full Stack Applications.
 - 📫 How to reach me : EMAIL : Siddhantsaikia@gmail.com
 
 <!---
